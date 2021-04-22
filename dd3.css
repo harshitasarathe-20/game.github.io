@@ -17,7 +17,7 @@
         color: white;
         border: double 2px whitesmoke;
         border-radius: 3px;
-        margin-top: 7%;
+        margin-top: 9%;
         font-size: 15px;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
@@ -228,8 +228,8 @@
     }
 
     .row-2{
-        margin-left: 9%;
-        margin-right: 10%;
+        margin-left: 8%;
+        margin-right: 9%;
         margin-top: 5%;
 
     }
@@ -356,7 +356,7 @@
           margin-bottom: 1%;
       }
       .bnn{
-          margin-top: 23%;
+          margin-top: 27%;
       }
 
       .fa {
@@ -367,8 +367,8 @@
 
         }
         .row-2 {
-            margin-left: 15%;
-            margin-right: 15%;
+            margin-left: 13%;
+            margin-right: 14%;
             margin-top: 9%;
         }
         .row-3 {
