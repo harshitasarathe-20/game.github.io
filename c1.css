@@ -14,13 +14,17 @@
         color: white;
         border: double 2px whitesmoke;
         border-radius: 3px;
-        margin-top: 15%;
+        margin-top: 20%;
         font-size: 15px;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
      .back {
          text-align: center;
      }
+      #no{
+        margin-left: 2px;
+    }
+
 
    
     .w3-col.s6 {
@@ -297,11 +301,12 @@
 
         .row-0 {
             margin-top: 0%;
-            margin-bottom: 3%;
+            margin-bottom: 9%;
         }
 
         .row--1 {
             margin-left: -20px;
+         ,argin-top: 45px;
         }
 
         .rectangle {
