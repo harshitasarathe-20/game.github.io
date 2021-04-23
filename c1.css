@@ -21,9 +21,6 @@
      .back {
          text-align: center;
      }
-      #no{
-        margin-left: 2px;
-    }
 
 
    
@@ -170,6 +167,10 @@
           font-size: 80%;
           font-family: Georgia, 'Times New Roman', Times, serif;
       }
+           
+ #no{
+        margin-left: 4px;
+    }
 
       button.w3.w3-button.w3-large {
           height: 1.8rem;
@@ -306,7 +307,7 @@
 
         .row--1 {
             margin-left: -20px;
-         ,argin-top: 45px;
+         margin-top: 45px;
         }
 
         .rectangle {
